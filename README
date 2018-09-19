@@ -1,0 +1,10 @@
+This code requires:
+- docker
+- docker-compose
+- nodejs
+
+Run:
+- $ docker-compose up
+
+Alternatively:
+- $ docker compose up --build
